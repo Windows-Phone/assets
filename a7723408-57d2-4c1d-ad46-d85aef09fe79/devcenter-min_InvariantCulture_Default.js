@@ -1,0 +1,1 @@
+if(typeof Wdc==="undefined")Wdc={};if(typeof Wdc.Cpub==="undefined")Wdc.Cpub={};if(typeof Wdc.Cpub.DevCenter==="undefined")Wdc.Cpub.DevCenter={};Wdc.Cpub.DevCenter=function(){var b={currentMenuItemId:"highlighted-L1"};function a(){window.msCommonShell.load(b)}function c(){a()}return {init:c}}();$(function(){Wdc.Cpub.DevCenter.init()})
