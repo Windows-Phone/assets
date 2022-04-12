@@ -1,0 +1,56 @@
+﻿/*!
+------------------------------------------- START OF THIRD PARTY NOTICE -----------------------------------------
+
+This file is based on or incorporates material from the projects listed below (Third Party IP). The original copyright notice and the license under which Microsoft received such Third Party IP, are set forth below. Such licenses and notices are provided for informational purposes only. Microsoft licenses the Third Party IP to you under the licensing terms for the Microsoft product. Microsoft reserves all other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise. 
+
+//-----------------------------------------------------------------------------
+twbs-bootstrap-sass (3.3.0)
+//-----------------------------------------------------------------------------
+
+The MIT License (MIT)
+
+Copyright (c) 2013 Twitter, Inc
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+//-----------------------------------------------------------------------------
+necolas-normalize.css (3.0.2)
+//-----------------------------------------------------------------------------
+! normalize.css v3.0.2 | MIT License | git.io/normalize
+
+Copyright (c) Nicolas Gallagher and Jonathan Neal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Provided for Informational Purposes Only
+MIT License 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION 
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+.container{max-width:1440px!important}.subtext-gray{font-size:1.25em;font-weight:200;color:#767676}.navigation.vertical-navigation{margin-top:48px}.navigation.vertical-navigation a{color:#393939}.navigation.vertical-navigation a:link{color:#767676}.navigation.vertical-navigation a:visited{color:#767676}.navigation.vertical-navigation a:hover{color:#2b2b2b}.navigation.vertical-navigation a:focus{color:#2b2b2b}.navigation.vertical-navigation a:active{color:#393939}.navigation.vertical-navigation ul ul{padding-left:12px;padding-bottom:8px}.navigation.vertical-navigation .current-page>a{font-size:15px;line-height:20px;font-weight:600;font-size:.9375rem;line-height:1.25rem;padding-bottom:.227px;padding-top:.227px;padding-bottom:.227px;padding-top:.227px;color:#393939}.navigation.vertical-navigation .current-page>a:link{color:#000}.navigation.vertical-navigation .current-page>a:visited{color:#000}.navigation.vertical-navigation .current-page>a:hover{color:#2b2b2b}.navigation.vertical-navigation .current-page>a:focus{color:#2b2b2b}.navigation.vertical-navigation .current-page>a:active{color:#393939}.breadcrumb{color:#767676}.page-banner{background-color:#f2f2f2;padding-top:8px;padding-bottom:48px}.page-banner .banner-image{display:block;margin-left:auto;margin-right:auto}.page-title{margin-bottom:48px}.page-title .title-text,.page-title .subtitle-text{display:block}.page-title .subtitle-text{color:#393939}.section .section.item-section{margin-top:0}@media(max-width:1399px){.section .section.item-section{margin-bottom:32px}}.section .section-graphic{margin-bottom:20px}.gallery .gallery-item{margin-top:2px;margin-bottom:2px}.tile{background-color:#f2f2f2;margin-bottom:2px;margin-top:2px;padding:16px;position:relative}.tile .tile-image{margin-top:16px;padding-left:4px}.page-footer,.page-header{background-color:#e6e6e6;height:200px}.page-footer .text-base,.page-header .text-base{color:#767676;margin-top:60px;display:block;text-align:center}.tile-nav{margin-top:4px;margin-bottom:4px;background-color:#f2f2f2}.tile-nav [class*="col"]{background-color:#fff}.tile-nav [class*="col"]:first-child a{margin-left:2px}.tile-nav [class*="col"]:last-child a{margin-right:2px}@media(max-width:539px){.tile-nav [class*="col"] a{margin-bottom:4px;margin-left:2px;margin-right:2px}.tile-nav [class*="col"]:last-child a{margin-bottom:0}}@media(min-width:540px)and (max-width:767px){.tile-nav [class*="col"]:nth-child(1) a,.tile-nav [class*="col"]:nth-child(2) a,.tile-nav [class*="col"]:nth-child(3) a{margin-bottom:4px}.tile-nav [class*="col"]:nth-child(3n) a{margin-right:2px}.tile-nav [class*="col"]:nth-child(4n) a{margin-left:2px}}.tile-nav a{background-color:#f2f2f2;display:block;text-align:center;padding:24px 8px;margin-top:0;margin-bottom:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;word-wrap:normal;color:#393939}.tile-nav a:link{color:#393939}.tile-nav a:visited{color:#393939}.tile-nav a:hover{color:#2b2b2b}.tile-nav a:focus{color:#2b2b2b}.tile-nav a:active{color:#393939}.tile-nav a:hover{background-color:#e6e6e6}.section .section-body a{color:#107c10!important}.square-content a{color:#5dc21e!important}.breadcrumb-white,.breadcrumb-white>li:before,.breadcrumb-white>li a,.breadcrumb-white>li a:visited{color:#fff}.jumbotron{min-height:264px!important;max-width:1440px!important;margin:0 auto}.jumbotron-bg-img{-webkit-background-size:cover!important;-moz-background-size:cover!important;-o-background-size:cover!important;background-size:cover!important;background-repeat:no-repeat!important;background-position:center center!important;color:#fff}.jumbotron-landing-bg-img{-webkit-background-size:cover!important;-moz-background-size:cover!important;-o-background-size:cover!important;background-size:cover!important;background-repeat:no-repeat!important;background-position:center center!important}.square-box{width:100%;max-width:1440px;overflow:hidden;margin:0 auto}.square-section{float:left;width:50%;position:relative}.square-section .square-content{padding:12% 10%;color:#fff}.square-content p{margin-top:12px;margin-bottom:12px}.square-image{float:left;width:50%}.square-image img{width:100%;height:auto}.sq-bg-lightblack{background:#1b1b1b}.sq-bg-darkgrey{background:#414141}.sq-bg-lightgreen{background:#005c00}.spacer-page-bottom{margin-bottom:84px!important}.section-page-bottom{margin-bottom:52px!important}.icon-height{height:101px!important}@media screen and (max-width:768px){.square-section,.square-image{display:block;width:100%}.square-section .square-content{padding:10% 3%}}.blog-list a{color:#000}.blog-list span,.blog-list a:hover{color:rgba(0,0,0,.6)}.stats-container{margin-top:48px;position:relative;min-height:68px;padding-left:72px;float:left;width:20%}.stats-container .stats-icon{position:absolute;top:0;left:0;z-index:-1}.stats-container .text-subtitle{margin:0;padding-top:2px}.stats-container .text-title{margin:0;font-size:36px;color:#646464}@media(min-width:768px)and (max-width:991px){.stats-container{width:33%}}@media(max-width:767px){.stats-container{width:100%;float:none}}
